@@ -3,7 +3,6 @@
     "username": "techifybots"
   },
   "records": {
-    "A": ["216.198.79.1"],
-    "CNAME": "63f42cc5d1a28112.vercel-dns-017.com."
+    "A": ["216.198.79.1"]
   }
 }
